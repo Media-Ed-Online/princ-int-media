@@ -8,11 +8,11 @@ highlighter: null
 # permalink: /:title
 
 # baseurl: "https://media-ed-online.github.io/prince-int-media/" # the subpath of your site, e.g. /blog/
-url: https://media-ed-online.github.io/
+# url: https://media-ed-online.github.io/
 
 # Custom options:
 color_scheme: azul|ruby|amber|avocado
-color_scheme: azul
+color_scheme: ruby
 
 # Build settings
 markdown: kramdown

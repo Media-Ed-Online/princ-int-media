@@ -455,3 +455,78 @@ footer p {
       flex-basis: 80px;
   }
 }
+
+/*
+================================================================================
+  Sitcky Menus
+================================================================================
+*/
+/*.stickynav {
+  position: sticky;
+  top: 0;
+}
+
+.stickynav>ul {
+  margin: 0;
+  padding-left: 10px;
+  background-color: #EAEAEA;
+  width: 75%;
+  border-bottom-right-radius: 20px;
+  color: #333;
+}
+
+.stikynav>ul, li {
+  display: inline-block;
+  list-style-type: none;
+  text-transform: uppercase;
+  font-weight: normal;
+  font-size: small;
+  text-align: center;
+  margin: 5px;
+}*/
+
+.anchor {
+display: block;
+height: 30px; /*same height as header*/
+margin-top: -40px; /*same height as header*/
+visibility: hidden;
+}
+
+.sticky {
+  position: sticky;
+  top: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+menu#sticky-navigation ul {
+  margin: 0;
+  background-color: #EAEAEA;
+  width: 75%;
+  border-bottom-right-radius: 20px;
+  text-align: left;
+}
+
+menu#sticky-navigation li {
+  display: inline;
+  list-style-type: none;
+  text-transform: uppercase;
+  font-weight: normal;
+  font-size: small;
+  text-align: center;
+  margin: auto;
+  padding: .4em 1em;
+  min-width: 1em;
+}
+
+menu#sticky-navigation li:hover,
+menu#sticky-navigation li.current {
+  background-color: #333;
+  color: #EAEAEA !important;
+  border-top: 3px solid #8FBE36;
+}
+
+menu#sticky-navigation a.current {
+  border-top: 3px solid #8FBE36;
+}

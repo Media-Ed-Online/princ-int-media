@@ -12,17 +12,17 @@ git_edit_address: https://github.com/Media-Ed-Online/prince-int-media/blob/gh-pa
 # theme: brume
 # Custom options:
 color_scheme: azul|ruby|amber|avocado
-color_scheme: amber
+color_scheme: avocado
 
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
-gems:
-  - jekyll-feed
-  - jekyll-redirect-from
-  - jekyll-seo-tag
-  - jekyll-sitemap
+#gems:
+  #- jekyll-feed
+  #- jekyll-redirect-from
+  #- jekyll-seo-tag
+  #- jekyll-sitemap
 
 exclude:
   - Gemfile

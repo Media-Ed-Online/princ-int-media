@@ -9,10 +9,11 @@ url: https://media-ed-online.github.io/ # the base hostname & protocol for your 
 git_address: https://github.com/Media-Ed-Online/prince-int-media
 git_edit_address: https://github.com/Media-Ed-Online/prince-int-media/blob/gh-pages
 
-# theme options from https://bootswatch.com/
-# comment out this to use default Bootstrap
-# bootwatch: united
 theme: brume
+# Custom options:
+color_scheme: azul|ruby|amber|avocado
+color_scheme: ruby
+
 
 # Build settings
 markdown: kramdown

@@ -30,7 +30,7 @@ title: module-feed
 {% endunless %}
 
   <article>
-    <p><a href="{{ page.url | absolute_url }}" title="{{ page.title }}">"{{ page.title }}"</a><br />{{ page.summary }}</p>
+    <p><a href="{{ page.url | prepend: site.baseurl }}" title="{{ page.title }}">"{{ page.title }}"</a><br />{{ page.summary }}</p>
     <div class="page-category">
       {{ page.category }}
     </div>

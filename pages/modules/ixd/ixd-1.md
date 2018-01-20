@@ -6,25 +6,13 @@ active: Week 01
 summary: Due Friday 1.29
 ---
 
-<nav id="main">
-    <ul>
-        <li><a href="#top" class="scroll"></a></li>
-        <li><a href="#middle" class="scroll"></a></li>
-        <li><a href="#bottom" class="scroll"></a></li>
-    </ul>
-</nav>
-<section id="top">
-    1
-</section>
-
-<section id="middle">
-    2
-</section>
-
-<section id="bottom">
-    3
-</section>
-
+<menu id="sticky-navigation" class="sticky">
+  <ul>
+    <li><a href="#section1" class="scroll">/ Reading</a></li>
+    <li><a href="#section2" class="scroll">/ Video</a></li>
+    <li><a href="#section3" class="scroll">/ Lab</a></li>
+  </ul>
+</menu>
 
 
 

@@ -21,18 +21,4 @@ $(document).ready(function(){
       });
     } // End if
   });
-
-  var main = main = $('#sticky-menu ul');
-
-  $('.scroll').click(function(event) {
-
-      event.preventDefault();
-
-      /* Remove active class on any li when an anchor is clicked */
-      main.children().removeClass();
-
-      /* Add active class to clicked anchor's parent li */
-      $(this).parent().addClass('active');
-
-  });
 });

@@ -517,7 +517,6 @@ menu#sticky-navigation li {
   text-align: center;
   margin: auto;
   padding: .4em 1em;
-  min-width: 1em;
 }
 
 menu#sticky-navigation li:hover,

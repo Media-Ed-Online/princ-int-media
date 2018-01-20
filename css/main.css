@@ -527,6 +527,8 @@ menu#sticky-navigation li.current {
   border-top: 3px solid #8FBE36;
 }
 
-menu#sticky-navigation a.current {
-  border-top: 3px solid #8FBE36;
+menu#sticky-navigation li.active {
+  border-top: 3px solid #8FBE36 !important;
+  background-color: #333;
+  color: #EAEAEA !important;
 }

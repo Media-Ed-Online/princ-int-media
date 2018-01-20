@@ -4,8 +4,8 @@ email: justine.evans@umontana.edu
 description: >
   Course content for a look into creative technologies for interaction design.
 
-# baseurl: "/prince-int-media" # the subpath of your site, e.g. /blog/
-url: https://media-ed-online.github.io/prince-int-media/ # the base hostname & protocol for your site
+baseurl: "/prince-int-media" # the subpath of your site, e.g. /blog/
+url: https://media-ed-online.github.io/ # the base hostname & protocol for your site
 git_address: https://github.com/Media-Ed-Online/prince-int-media
 git_edit_address: https://github.com/Media-Ed-Online/prince-int-media/blob/gh-pages
 
@@ -30,27 +30,3 @@ exclude:
   - .gitignore
   - README.md
 timezone: America/Denver
-defaults:
-- scope:
-    path: _posts
-    type: posts
-  values:
-    layout: post
-    sectionid: blog
-
-- scope:
-    path: _docs
-    type: docs
-  values:
-    layout: docs
-    sectionid: docs
-    seo:
-      type: "WebPage"
-
-collections:
-  docs:
-    permalink: /:collection/:path/
-    output: true
-  posts:
-    permalink: /blog/:year/:month/:day/:title/
-    output: true

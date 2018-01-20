@@ -54,7 +54,7 @@ a {
 hr {
   border : 0;
   height: 15px;
-  background : url(/images/divider.svg) center center no-repeat;
+  background : url(../images/divider.svg) center center no-repeat;
 }
 
 code {

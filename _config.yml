@@ -5,14 +5,14 @@ email: justine.evans@umontana.edu
 description: Course content for a look at creative technologies in interaction design.
 
 highlighter: null
-permalink: /:title
+# permalink: /:title
 
 # baseurl: "https://media-ed-online.github.io/prince-int-media/" # the subpath of your site, e.g. /blog/
-url: https://media-ed-online.github.io/prince-int-media/ # the base hostname & protocol for your site
+url: https://media-ed-online.github.io/
 
 # Custom options:
-# color_scheme: azul|ruby|amber|avocado
-# color_scheme: avocado
+color_scheme: azul|ruby|amber|avocado
+color_scheme: azul
 
 # Build settings
 markdown: kramdown

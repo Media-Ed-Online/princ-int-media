@@ -1,8 +1,19 @@
 ---
 layout: default
+title: 404
 ---
 
-<div class="container text-center">
-    <p>The page you are looking for cannot be found.</p>
-    <h2>404</h2>
-</div>
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    <div class="container not-found">
+      <h1 class="bounceInDown animated">404</h1>
+      <p>
+        Sorry, we couldn’t find the page you requested.
+      </p>
+    </div>
+  </body>
+</html>

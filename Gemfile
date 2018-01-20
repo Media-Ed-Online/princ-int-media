@@ -1,7 +1,8 @@
 source "https://rubygems.org"
 # ruby RUBY_VERSION  /REMOVED BY JUSTINE/
 
-gem "jekyll", "3.4.3"
+# gem "jekyll", "3.4.3"
+gem 'brume', '~> 1.1', '>= 1.1.1'
 
 # to use GitHub Pages
 # gem "github-pages", group: :jekyll_plugins

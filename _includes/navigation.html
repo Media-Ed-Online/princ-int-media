@@ -1,9 +1,0 @@
-<nav id="main-navigation">
-  {% for link in site.data.links %}
-  {% if page.title == link.title %}
-  <a href="{{ link.url  | prepend: site.baseurl }}" title="{{ link.title }}" class="current {{ link.class }}">{{ link.title }}</a>
-  {% else %}
-  <a href="{{ link.url  | prepend: site.baseurl }}" title="{{ link.title }}" class="{{ link.class }}">{{ link.title }}</a>
-  {% endif %}
-  {% endfor %}
-</nav>

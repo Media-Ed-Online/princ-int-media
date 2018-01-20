@@ -7,7 +7,7 @@ description: Course content for a look at creative technologies in interaction d
 highlighter: null
 permalink: /:title
 
-# baseurl: "/prince-int-media" # the subpath of your site, e.g. /blog/
+# baseurl: "https://media-ed-online.github.io/prince-int-media/" # the subpath of your site, e.g. /blog/
 url: https://media-ed-online.github.io/prince-int-media/ # the base hostname & protocol for your site
 
 # Custom options:

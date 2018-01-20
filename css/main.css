@@ -324,11 +324,11 @@ footer p {
   margin-bottom: 10px;
 }
 
-/*.archive-item article a {
+.archive-item article a {
   -webkit-box-flex: 1;
       -ms-flex-positive: 1;
           flex-grow: 1;
-}*/
+}
 
 /*Justine*/
 .archive-item article p {
@@ -359,6 +359,15 @@ footer p {
       flex-basis: 110px;
 }
 
+#welcome {
+  color: #333;
+  text-transform: uppercase;
+  font-weight: normal;
+  line-height: 1;
+  font-size: 2em;
+  text-align: center;
+  margin-top: 2em;
+}
 /*
 ================================================================================
   Code highlighting

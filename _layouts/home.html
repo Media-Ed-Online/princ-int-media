@@ -2,10 +2,8 @@
 layout: default
 title: Home
 ---
-<head>
-  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/animated-text/style12.css" />
-</head>
 
+<h2 id="welcome">Principles of Interactive</h2>
 <div class="content">
   <svg viewBox="0 0 1000 200">
     <symbol id="s-text">
@@ -20,6 +18,7 @@ title: Home
     <use xlink:href="#s-text" class="text"></use>
   </svg>
 </div>
+
 
 
 <section class="archive">
@@ -38,7 +37,6 @@ title: Home
 {% else %}
 
 {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-{% capture next_year %}{{ post.next.date | date: '%Y' }}{% endcapture %}
 
 {% if year != next_year %}
 
@@ -61,10 +59,7 @@ title: Home
     </div>
   </article>
 
-  {% if forloop.last %}
-    </div>
-  </div>
-  {% endif %}
+
 
 {% endfor %}
 </section>

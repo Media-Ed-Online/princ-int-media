@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Intro
+title: Introduction
 category: Welcome
 active:
 ---
 
 <hr>
 
-## Welcome to the class!
+## Introduction:<br />Finding the Principle of the Matter
 
 Nothing yet :(

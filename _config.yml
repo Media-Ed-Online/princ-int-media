@@ -9,10 +9,10 @@ url: https://media-ed-online.github.io/ # the base hostname & protocol for your 
 git_address: https://github.com/Media-Ed-Online/prince-int-media
 git_edit_address: https://github.com/Media-Ed-Online/prince-int-media/blob/gh-pages
 
-theme: brume
+# theme: brume
 # Custom options:
 color_scheme: azul|ruby|amber|avocado
-color_scheme: ruby
+color_scheme: amber
 
 
 # Build settings

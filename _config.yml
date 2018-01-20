@@ -1,18 +1,17 @@
 # Site settings
-title: Principles of Interactive Media
-author: Justine Evans
+title: Intro to Web Design & Development
 email: justine.evans@umontana.edu
-description: Course content for a look at creative technologies in interaction design.
+description: >
+  Course content for an introductory look at building for the web.
 
-highlighter: null
-# permalink: /:title
+# baseurl: "/intro-web-dev" # the subpath of your site, e.g. /blog/
+url: https://media-ed-online.github.io/intro-web-dev/ # the base hostname & protocol for your site
+git_address: https://github.com/Media-Ed-Online/intro-web-dev
+git_edit_address: https://github.com/Media-Ed-Online/intro-web-dev/blob/gh-pages
 
-# baseurl: "https://media-ed-online.github.io/prince-int-media/" # the subpath of your site, e.g. /blog/
-# url: https://media-ed-online.github.io/
-
-# Custom options:
-color_scheme: azul|ruby|amber|avocado
-color_scheme: ruby
+# theme options from https://bootswatch.com/
+# comment out this to use default Bootstrap
+bootwatch: united
 
 # Build settings
 markdown: kramdown
@@ -30,3 +29,27 @@ exclude:
   - .gitignore
   - README.md
 timezone: America/Denver
+defaults:
+- scope:
+    path: _posts
+    type: posts
+  values:
+    layout: post
+    sectionid: blog
+
+- scope:
+    path: _docs
+    type: docs
+  values:
+    layout: docs
+    sectionid: docs
+    seo:
+      type: "WebPage"
+
+collections:
+  docs:
+    permalink: /:collection/:path/
+    output: true
+  posts:
+    permalink: /blog/:year/:month/:day/:title/
+    output: true

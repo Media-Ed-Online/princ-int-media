@@ -7,10 +7,10 @@ summary: This is a blank page.
 ---
 
 <menu id="sticky-navigation" class="sticky">
-  <ul>
+  <ul class="...">
     <i class="fas fa-map-marker-alt nav-marker"></i>
     <li><a href="#section1" class="scroll">/ Reading</a></li>
-    <li><a href="#section2" class="scroll">/ Video</a></li>
+    <li><a href="#section2" class="scroll">/ Viewing</a></li>
     <li><a href="#section3" class="scroll">/ Lab</a></li>
   </ul>
 </menu>

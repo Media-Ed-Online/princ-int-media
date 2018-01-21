@@ -6,8 +6,15 @@ layout: default
 <script src="../js/scroll.js"></script>
 
 <style>
-  h2, h3 {
+  h2 {
+    font-size: 2em;
+  }
+  h2, h3, h4 {
     font-family: 'Lora', serif;
+  }
+  h4 {
+    text-align: center;
+    margin-top: 60px;
   }
   h2, p {
     margin-left: 15px;
@@ -15,8 +22,8 @@ layout: default
 </style>
 
 <article class="single row gutters">
-  <p style="margin-bottom: 3px;">{{ page.category }} / {{ page.summary }}</p>
-  <h2>{{ page.title }}</h2>
+  <p style="margin-bottom: 5px;">{{ page.category }} / {{ page.summary }}</p>
+  <h2>"{{ page.title }}"</h2>
 
   {{ content }}
 </article>

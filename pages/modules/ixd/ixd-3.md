@@ -3,7 +3,7 @@ layout: page
 title: Dynamics
 category: IXD
 active: Week 03
-summary: Blah blah blah
+summary: Due Monday, 2.12
 ---
 
 <div class="container not-found" style="margin-top: 50px;">

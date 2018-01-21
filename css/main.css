@@ -321,7 +321,7 @@ footer p {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  margin-bottom: 10px;
+  margin-bottom: 10px
 }
 
 .archive-item article a {
@@ -348,8 +348,10 @@ footer p {
 
 .post-date {
   text-align: right;
-  -ms-flex-preferred-size: 110px;
-      flex-basis: 110px;
+  /*-ms-flex-preferred-size: 110px;
+      flex-basis: 110px;*/
+  -ms-flex-preferred-size: 75px;
+      flex-basis: 75px;
 }
 
 /*Justine*/
@@ -365,8 +367,19 @@ footer p {
   font-weight: normal;
   line-height: 1;
   font-size: 2em;
-  text-align: center;
   margin-top: 2em;
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-bottom: 5px;
+}
+
+.welcome-container {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+}
+
+.welcome-container img {
+  width: 500px;
 }
 /*
 ================================================================================
@@ -454,6 +467,7 @@ footer p {
     -ms-flex-preferred-size: 80px;
       flex-basis: 80px;
   }
+
 }
 
 /*
@@ -498,11 +512,21 @@ visibility: hidden;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  margin-bottom: 20px;
+  margin-top: -3px;
+}
+
+.nav-marker {
+  display: inline;
+  margin: 0 1em;
+  valign: middle;
+  font-size: small;
 }
 
 menu#sticky-navigation ul {
   margin: 0;
   background-color: #EAEAEA;
+  min-width: 275px;
   width: 75%;
   border-bottom-right-radius: 20px;
   text-align: left;
@@ -519,15 +543,34 @@ menu#sticky-navigation li {
   padding: .4em 1em;
 }
 
-menu#sticky-navigation li:hover,
-menu#sticky-navigation li.current {
+
+/* INTRO */
+menu#sticky-navigation .intro a {
+
+}
+
+menu#sticky-navigation .intro li:hover,
+menu#sticky-navigation .into li.current {
   background-color: #333;
-  color: #EAEAEA !important;
   border-top: 3px solid #8FBE36;
 }
 
-menu#sticky-navigation li.active {
+menu#sticky-navigation .intro li.active {
   border-top: 3px solid #8FBE36 !important;
   background-color: #333;
+}
+
+menu#sticky-navigation .ixd a {
+  color: #FC315A;
+}
+
+menu#sticky-navigation .ixd li:hover,
+menu#sticky-navigation .ixd li.current {
+  background-color: #333;
+  border-top: 3px solid #FC315A;
+}
+
+menu#sticky-navigation .ixd li.active {
+  border-top: 3px solid #FC315A !important;
   color: #EAEAEA !important;
 }

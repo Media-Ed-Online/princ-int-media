@@ -524,10 +524,10 @@ footer p {
 }*/
 
 .anchor {
-display: block;
-height: 30px; /*same height as header*/
-margin-top: -40px; /*same height as header*/
-visibility: hidden;
+  display: block;
+  height: 30px; /*same height as header*/
+  margin-top: -40px; /*same height as header*/
+  visibility: hidden;
 }
 
 .sticky {
@@ -587,6 +587,10 @@ menu#sticky-navigation .intro li.active {
 
 menu#sticky-navigation .ixd a {
   color: #FC315A;
+}
+
+menu#sticky-navigation .ixd a:hover {
+  color: #E0115F;
 }
 
 menu#sticky-navigation .ixd li:hover,

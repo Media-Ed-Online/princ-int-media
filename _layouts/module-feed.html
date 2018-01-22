@@ -3,14 +3,16 @@ layout: default
 title: module-feed
 ---
 
-<h1> Overview content goes here.</h1>
-<span style="color: #FC315A; font-size: xx-large; font-weight: bold">/ / / </span>
-<span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ / / </span>
-<span style="color: #F5A205; font-size: xx-large; font-weight: bold">/ / / </span>
-<span style="color: #53DFD3; font-size: xx-large; font-weight: bold">/ / /</span>
+<div style="margin-top: 50px;">
+  {{ content }}
+</div>
 
-<br /><br />
-
+<div style="margin: 25px 0;">
+  <span style="color: #FC315A; font-size: xx-large; font-weight: bold">/ / / </span>
+  <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ / / </span>
+  <span style="color: #F5A205; font-size: xx-large; font-weight: bold">/ / / </span>
+  <span style="color: #53DFD3; font-size: xx-large; font-weight: bold">/ / /</span>
+</div>
 
 {% for page in site.pages %}
 {% if page.category == "IXD" %}

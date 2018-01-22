@@ -5,8 +5,6 @@ category: IXD
 active: Week 01
 summary: Due Monday 1.29
 ---
-<span class="anchor" id="top"></span>
-
 <menu id="sticky-navigation" class="sticky">
   <ul class="ixd">
     <a href="#top" class="scroll"><i class="fas fa-map-marker-alt nav-marker"></i></a>
@@ -20,6 +18,7 @@ This course is all about **interaction**, or how respond, develop, and communica
 
 But before that, before we code, before we create, before we publish…
 
+<img src="./img/ixd-packages.svg" title="Everyday things" alt="different packaged items" style="max-width: 150px; margin: 10px 0 10px 10px; float: right;" />
 Have you ever thought about “things?” The objects that make up our daily lives? Who made them, for what purpose? If you could re-make them, if you _are_ making them, what do they look like, how do they work? What is your interaction with or reaction to these “things,” and does that change or adapt?
 
 Before we get to making digital products, we should take a moment to look at the phsyical world around us, and how **industrial design** and **product design** has lead to the world we know today.
@@ -30,7 +29,7 @@ Before we get to making digital products, we should take a moment to look at the
 
 <span class="anchor" id="section1"></span>
 <div class="section">
-  <h3><i class="fas fa-book material-marker"></i> Reading: Standards of Design</h3>
+  <h3><i class="fas fa-book material-marker"></i> Explore: Standards of Design</h3>
 </div>
 
 <blockquote>

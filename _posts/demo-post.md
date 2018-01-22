@@ -2,11 +2,8 @@
 layout: post
 title: Demo post
 ---
-<img src="../../../images/divider.svg" />
 
 Praesent tincidunt vestibulum sem nec eleifend. Pellentesque adipiscing mollis adipiscing. Sed ipsum sem, eleifend eget dapibus in, tincidunt ut dolor. Curabitur gravida urna leo, eget auctor turpis feugiat non. Vivamus pharetra, lorem id ullamcorper rutrum, eros erat condimentum erat, ac dignissim lorem nisi nec nunc. Praesent tellus mi, volutpat quis nisl et, consectetur blandit nibh.
-
-<hr>
 
 Nulla sit amet nulla non odio sodales mollis elementum sed sem. Aenean et laoreet enim. Curabitur vulputate, mi rutrum commodo condimentum, enim nunc feugiat magna, vel rutrum sapien ante nec ante. Donec nec nibh placerat, molestie felis ac, vulputate arcu. Donec condimentum pellentesque nibh vel tincidunt. Fusce sem ipsum, varius at laoreet vitae, accumsan sed nisl. Nunc eget viverra diam. Aliquam pulvinar, enim id commodo tincidunt, risus lectus pharetra lacus, et semper enim ligula ut mauris. Sed vitae sollicitudin ante. In sollicitudin placerat dui et sagittis.
 
@@ -63,3 +60,8 @@ Nam vulputate leo vitae libero vehicula, id tincidunt velit malesuada. In vel or
 </pre></div>
 
 Sed imperdiet interdum ultrices. Phasellus iaculis porttitor lorem nec scelerisque. Suspendisse eros urna, adipiscing vel luctus at, feugiat sit amet arcu. Aliquam porttitor ut urna pellentesque sagittis. Donec pellentesque venenatis diam sit amet cursus. Etiam luctus, metus quis gravida fermentum, tortor arcu consequat metus, eget viverra augue risus ac dui. Fusce faucibus scelerisque quam eu sagittis. Sed sit amet sapien non augue lobortis adipiscing. Sed sagittis at lectus eu tempus. Nulla non nulla ut ante condimentum mattis vel at lectus. Nulla ultricies dui et urna semper ultrices. Sed neque ante, dictum in dignissim luctus, facilisis ornare odio. Aenean tempor ultrices magna non pharetra. Curabitur vulputate nec est aliquet suscipit. Etiam ipsum sapien, dictum quis tristique vel, pretium at elit.
+
+<hr>
+
+<iframe src="https://player.vimeo.com/video/214092083?badge=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/214092083">A Sense of Wonder</a> from <a href="https://vimeo.com/mathieulelay">Mathieu Le Lay</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

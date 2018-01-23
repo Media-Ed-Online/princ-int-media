@@ -18,17 +18,17 @@ Use this [campus map](https://map.umt.edu/place/48#18/46.86242/-113.98363) for d
 
 
 ### Slack
-When available, you can send messages or live chat with us at the [UMMediaArts Slack Channel](http://mediaarts.slack.com/). Registration is free with your @umontana.edu e-mail address. Click the &nbsp;<a href="http://ummediaarts.slack.com/"><i class="fa fa-slack" aria-hidden="true"></i></a>&nbsp; icon from the navigation menu above at any time to check-in!
+When available, you can send messages or live chat with us at the [UMMediaArts Slack Channel](http://mediaarts.slack.com/). Registration is free with your @umontana.edu e-mail address.
 
 We will be using Slack for screen-sharing, meaning we can have direct interaction with your work and can help in real-time remotely. **Please schedule with us via e-mail to set up a live meeting.**
 
 
 <hr>
-<i class="fa fa-slack" aria-hidden="true"></i>
+
 
 ### Site References
 #### Content
-Course material has been pulled and adapted from several sources, most of which is sited as its point of use. Others include:
+Course material has been pulled and adapted from several sources, most of which is cited as its point of use. Others include:
 - [Adobe](http://www.adobe.com/creativecloud.html)
 - [Danksy](http://www.adobe.com/creativecloud.html)
 - [Justin Lewis](http://www.seazenstudio.com/home/)

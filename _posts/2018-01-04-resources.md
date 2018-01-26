@@ -2,6 +2,14 @@
 layout: post
 title: Resources
 ---
+
+<div style="margin: 25px 0;">
+  <span style="color: #FC315A; font-size: xx-large; font-weight: bold">/ / / </span>
+  <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ / / </span>
+  <span style="color: #F5A205; font-size: xx-large; font-weight: bold">/ / / </span>
+  <span style="color: #53DFD3; font-size: xx-large; font-weight: bold">/ / /</span>
+</div>
+
 Since this course is so rooted in community, it’s only fitting we try to provide as many resources as we can. But your greatest resource will be, in fact, each other.
 
 <br />

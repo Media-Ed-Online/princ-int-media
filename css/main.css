@@ -606,3 +606,126 @@ menu#sticky-navigation .ixd li.active {
 
 /* RESPONSIVE EMBEDS */
 .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+
+/* SCHDULE BLOCKS */
+.block-container {
+  background: #111011;
+  font-family: Lucida Console, Monaco, monospace;
+  border-top: top;
+  border-right: 2px solid #111011;
+  border-bottom: 2px solid #111011;
+  border-left: 15px solid #E9ECE1;
+  border-radius: 20px 0px;
+}
+
+.block-date {
+  background: #111011;
+  border: 2px solid #111011;
+  border-radius: 20px 0 0 0;
+  padding-top: 1%;
+  text-align:center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.block-date h2 {
+  font-size: 11px;
+  color: gray;
+}
+
+.block-date p {
+  font-size: 14px;
+  color: white;
+}
+
+.block-topic {
+  background: #FFF;
+  border-top: 2px solid #111011;
+  border-radius: 0 0 20px 0;
+  padding:15px;
+}
+
+.block-topic h3 {
+  text-transform: uppercase;
+  font-size: 14px;
+  color: black;
+  letter-spacing: 2px;
+}
+
+
+
+.heading-container {
+  display: inline;
+  width: 100%;
+}
+
+.heading-container .line {
+  width: 100%;
+  border-top: 2px solid #111011;
+  padding-bottom: 20px;
+}
+
+.heading-container .box-pink {
+  background: #111011;
+  font-family: Lucida Console, Monaco, monospace;
+  border-left: 15px solid #FC315A;
+  border-radius: 0 0 0 20px;
+  width: 175px;
+  float: left;
+  margin:  -2px 20px 10px 0;
+}
+
+.heading-container .box-blue {
+  background: #111011;
+  font-family: Lucida Console, Monaco, monospace;
+  border-right: 15px solid #33A3C1;
+  border-radius: 0 0 20px 0;
+  width: 175px;
+  float: right;
+  margin:  -2px 0 10px 20px;
+}
+
+.heading-container .box-yellow {
+  background: #111011;
+  font-family: Lucida Console, Monaco, monospace;
+  border-left: 15px solid #F5A205;
+  border-radius: 0 0 0 20px;
+  width: 175px;
+  float: left;
+  margin:  -2px 20px 10px 0;
+}
+
+.heading-container .box-teal {
+  background: #111011;
+  font-family: Lucida Console, Monaco, monospace;
+  border-right: 15px solid #53DFD3;
+  border-radius: 0 0 20px 0;
+  width: 175px;
+  float: right;
+  margin:  -2px 0 10px 20px;
+}
+
+.heading-container .text {
+  padding-top: 10px;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px
+}
+
+.heading-container .heading {
+  font-size: 0.5em;
+  color: gray;
+}
+
+.heading-container .sub-heading {
+  font-size: 0.8em;
+  color: #EAEAEA;
+}
+
+.heading-container .break {
+  width: 100%;
+  height: .5px;
+  background-color: gray;
+  margin: -15px 0 10px 0 !important;
+}

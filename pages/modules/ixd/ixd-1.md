@@ -3,7 +3,7 @@ layout: page
 title: A World of Things
 category: IXD
 active: Week 01
-summary: Due Monday 1.29
+summary: Due Monday 2.5
 ---
 <menu id="sticky-navigation" class="sticky">
   <ul class="ixd">
@@ -14,9 +14,7 @@ summary: Due Monday 1.29
   </ul>
 </menu>
 
-This course is all about **interaction**, or how respond, develop, and communicate with the world around us. We do this a number of ways in the arts; through our devices, through our collaborators, and through the iterative processes behind designing and producing our products.
-
-But before that, before we code, before we create, before we publish…
+To start, I'd like to go outside the digital arts proper, and visit the (very) fascinating world of product design. Many of you create physical objects in third-perspective; sculptors, 3D printers, oil and acrylic painters, ceramicists. Those of you producing physical works face different challenges than digital designers, and exploring how viewers interact with your products - objects they can _touch_ - is completely worth our discussion.
 
 <img src="./img/ixd-packages.svg" title="Everyday things" alt="different packaged items" style="max-width: 150px; margin: 10px 0 10px 10px; float: right;" />
 Have you ever thought about “things?” The objects that make up our daily lives? Who made them, for what purpose? If you could re-make them, if you _are_ making them, what do they look like, how do they work? What is your interaction with or reaction to these “things,” and does that change or adapt?
@@ -92,4 +90,13 @@ Please watch the film for this Topic’s Group Think. Consider the age we live i
   <h3><i class="fas fa-flask material-marker"></i> Lab 01: Usability and U </h3>
 </div>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer facilisis ligula in nibh cursus tristique. Vivamus imperdiet nibh eget justo pretium luctus. Proin fringilla, turpis sit amet vehicula dapibus, libero neque laoreet velit, id eleifend arcu mi in urna. Pellentesque rhoncus et purus vitae pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec tortor nibh, sodales in turpis sed, semper vehicula justo. Nam sit amet leo at lacus eleifend consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer facilisis ligula in nibh cursus tristique. Vivamus imperdiet nibh eget justo pretium luctus. Proin fringilla, turpis sit amet vehicula dapibus, libero neque laoreet velit, id eleifend arcu mi in urna. Pellentesque rhoncus et purus vitae pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec tortor nibh, sodales in turpis sed, semper vehicula justo. Nam sit amet leo at lacus eleifend consectetur.
+Now that you’ve thought about your interactions with physical items, let’s navigate to the meat of what we study: digital interfaces and experiences.
+
+[Usability.gov](https://www.usability.gov/) is the leading resource for user experience (UX) best practices and guidelines, serving practitioners and students in the government and private sectors. It provides overviews of the user-centered design process and various UX disciplines, and also covers the related information on methodology and tools for making digital content more usable and useful.
+
+Take a look around. Pay particular attention to these pages:
+- [User Interface Design Basics](https://www.usability.gov/what-and-why/user-interface-design.html)
+- [Accessibility Basics](https://www.usability.gov/what-and-why/accessibility.html)
+- [Usability Evaluation Basics](https://www.usability.gov/what-and-why/usability-evaluation.html)
+
+When you're ready to begin, please view the aassignment requirements on Moodle!

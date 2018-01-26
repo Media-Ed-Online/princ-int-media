@@ -561,7 +561,6 @@ menu#sticky-navigation li {
   display: inline;
   list-style-type: none;
   text-transform: uppercase;
-  font-weight: normal;
   font-size: small;
   text-align: center;
   margin: auto;
@@ -571,7 +570,7 @@ menu#sticky-navigation li {
 
 /* INTRO */
 menu#sticky-navigation .intro a {
-
+  font-weight: normal;
 }
 
 menu#sticky-navigation .intro li:hover,
@@ -587,6 +586,7 @@ menu#sticky-navigation .intro li.active {
 
 menu#sticky-navigation .ixd a {
   color: #FC315A;
+  font-weight: normal;
 }
 
 menu#sticky-navigation .ixd a:hover {
@@ -728,4 +728,9 @@ menu#sticky-navigation .ixd li.active {
   height: .5px;
   background-color: gray;
   margin: -15px 0 10px 0 !important;
+}
+
+
+.main-content a {
+  font-weight: bold;
 }

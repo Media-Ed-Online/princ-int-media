@@ -2,7 +2,7 @@
 layout: page
 title: A World of Things
 category: IXD
-active: Week 01
+active: Week 02
 summary: Due Monday 2.5
 ---
 <menu id="sticky-navigation" class="sticky">

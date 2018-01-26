@@ -2,7 +2,8 @@
 layout: page
 title: MART<sup>340</sup> Online
 category: Introduction
-active: Please review before continuing.
+active: Week 01
+summary: 
 ---
 <menu id="sticky-navigation" class="sticky">
   <ul class="intro">

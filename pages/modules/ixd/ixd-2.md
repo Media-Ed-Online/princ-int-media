@@ -2,8 +2,8 @@
 layout: page
 title: Architecture
 category: IXD
-active: Week 02
-summary: Due Monday 2.5
+active: Week 03
+summary: Due Monday 2.12
 ---
 
 <div class="container not-found" style="margin-top: 50px;">

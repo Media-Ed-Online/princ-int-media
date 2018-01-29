@@ -554,7 +554,8 @@ footer p {
 
 .nav-marker {
   display: inline;
-  margin: 0 1em;
+  /*margin: 0 1em;*/
+  margin: 0 .7em;
   valign: middle;
   font-size: small;
 }
@@ -562,7 +563,8 @@ footer p {
 menu#sticky-navigation ul {
   margin: 0;
   background-color: #EAEAEA;
-  min-width: 275px;
+  /*min-width: 275px;*/
+  min-width: 300px;
   width: 75%;
   border-bottom-right-radius: 20px;
   text-align: left;
@@ -575,7 +577,8 @@ menu#sticky-navigation li {
   font-size: small;
   text-align: center;
   margin: auto;
-  padding: .4em 1em;
+  /*padding: .4em 1em;*/
+  padding: .4em .7em;
 }
 
 

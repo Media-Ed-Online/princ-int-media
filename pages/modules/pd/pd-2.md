@@ -9,8 +9,9 @@ summary: Due Monday 2.5
   <ul class="pd">
     <a href="#top" class="scroll"><i class="fas fa-map-marker-alt nav-marker"></i></a>
     <li><a href="#section1" class="scroll">/ Explore</a></li>
-    <li><a href="#section2" class="scroll">/ Viewing</a></li>
+    <li><a href="#section2" class="scroll">/ View</a></li>
     <li><a href="#section3" class="scroll">/ Lab</a></li>
+    <li><a href="#section4" class="scroll">/ Project</a></li>
   </ul>
 </menu>
 
@@ -87,7 +88,18 @@ Please watch the film for this Topic’s Group Think. Consider the age we live i
 
 <span class="anchor" id="section3"></span>
 <div class="section">
-  <h3><i class="fas fa-flask material-marker"></i> Lab 01: Usability and U </h3>
+  <h3><i class="fas fa-flask material-marker"></i> Lab: None </h3>
+</div>
+
+<i>There is no lab for this topic.</i>
+
+
+<hr>
+
+
+<span class="anchor" id="section4"></span>
+<div class="section">
+  <h3><i class="fas fa-paint-brush material-marker"></i> Project: Usability and U </h3>
 </div>
 
 Now that you’ve thought about your interactions with physical items, let’s navigate to the meat of what we study: digital interfaces and experiences.

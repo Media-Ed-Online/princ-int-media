@@ -9,8 +9,9 @@ summary: Please complete before moving on.
   <ul class="pd">
     <a href="#top" class="scroll"><i class="fas fa-map-marker-alt nav-marker"></i></a>
     <li><a href="#section1" class="scroll">/ Explore</a></li>
-    <li><a href="#section2" class="scroll">/ Viewing</a></li>
+    <li><a href="#section2" class="scroll">/ View</a></li>
     <li><a href="#section3" class="scroll">/ Lab</a></li>
+    <li><a href="#section4" class="scroll">/ Project</a></li>
   </ul>
 </menu>
 
@@ -62,7 +63,7 @@ The "exploration" section of each topic contains the majority of the learning ma
 
 <span class="anchor" id="section2"></span>
 <div class="section">
-  <h3><i class="fas fa-video material-marker"></i> Viewing...</h3>
+  <h3><i class="fas fa-video material-marker"></i> View...</h3>
 </div>
 
 You'll also use "viewings" to formulate your "Group Think" responses!
@@ -86,7 +87,16 @@ Meet [Don Norman](https://www.jnd.org/), a man we'll discuss over the IXD and UX
 
 **Labs** are usually step-by-step guides to teach you the creative technologies used in the course. These include Adobe [XD](https://www.adobe.com/products/xd.html) and [Muse](https://www.adobe.com/products/muse.html), and [Unity](https://store.unity.com/products/unity-personal).
 
-Each topic you'll have a lab and respective tutorial. You will turn in functioning clones of the projects discussed. In exchange, you'll have the opportunity to explore the software further during Projects.
+Most topics you'll have a lab and respective tutorial. You will turn in functioning clones of the projects discussed. In exchange, you'll have the opportunity to explore the software further during Projects.
+
+
+<hr>
+
+
+<span class="anchor" id="section4"></span>
+<div class="section">
+  <h3><i class="fas fa-paint-brush material-marker"></i> Project... </h3>
+</div>
 
 A **Project** will ask you to add to a past lab in your own way. For example:
 

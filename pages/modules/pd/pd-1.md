@@ -27,12 +27,12 @@ This course will use two main resources for you to complete your homework.
 
 #### Homework
 
-Homework is divided into four activity types:
+Homework is divided into three activity types:
 
 1. _“Group Think” Forums_ - Discussions regarding the materials found on this website.
 2. _Labs_ - Small exercises or responses to writing prompts.
 3. _Topic Projects & Workshops_ - 3 creative projects which ask you to expand on a lab in your own, creative way.
-4. _Final Project & Workshop_ - A multi-part project of your choosing from our 3 core fields (web site, app prototype, or game clone).
+<!--4. _Final Project & Workshop_ - A multi-part project of your choosing from our 3 core fields (web site, app prototype, or game clone).-->
 
 #### Moodle
 

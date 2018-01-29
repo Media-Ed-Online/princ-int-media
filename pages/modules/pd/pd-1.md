@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MART<sup>340</sup> Online Introduction
+title: MART340 Online Introduction
 category: PD
 active: Week 01
 summary: Please complete before moving on.

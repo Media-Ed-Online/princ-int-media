@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: mod-feed-uxd
 title: / UXD
 category: User Experience Design
-active: Weeks 04-06
+active: Weeks 06-09
 ---
 
 <div class="container not-found" style="margin-top: 50px;">

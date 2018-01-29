@@ -1,6 +1,6 @@
-- url: /pages/intro
-  title: Intro
-  class: intro
+- url: /pages/pd-overview
+  title: / PD
+  class: pd
 
 - url: /pages/ixd-overview
   title: / IXD
@@ -14,6 +14,6 @@
   title: / Games
   class: games
 
-- url: /pages/final-overview
-  title: / Final
-  class: final
+- url: /pages/projects-overview
+  title: Projects
+  class: projects

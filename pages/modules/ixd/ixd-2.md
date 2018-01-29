@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Architecture
+title: Dynamics
 category: IXD
-active: Week 03
-summary: Due Monday 2.12
+active: Week 04
+summary: Due Monday, 2.19
 ---
 
 <div class="container not-found" style="margin-top: 50px;">

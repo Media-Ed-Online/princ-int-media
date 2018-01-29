@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: mod-feed-games
 title: / Games
 category: Game Design
-active: Weeks 07-12
+active: Weeks 10-15
 ---
 
 <div class="container not-found" style="margin-top: 50px;">

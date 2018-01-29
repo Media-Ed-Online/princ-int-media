@@ -1,3 +1,14 @@
+/*------------
+| SITE COLORS |
+-------------*/
+/*  #8FBE36
+    #FC315A
+    #33A3C1
+    #F5A205
+    #53DFD3
+*/
+
+
 /*
 ================================================================================
   Global styles
@@ -234,7 +245,7 @@ nav#main-navigation a.trigger {
   display: none;
 }
 
-header > nav#main-navigation > .intro {
+header > nav#main-navigation > .pd {
   border-left: 10px solid #8FBE36;
   border-bottom-left-radius: 15px;
 }
@@ -254,7 +265,7 @@ header > nav#main-navigation > .games {
   border-bottom-left-radius: 15px;
 }
 
-header > nav#main-navigation > .final {
+header > nav#main-navigation > .projects {
   border-left: 10px solid #53DFD3;
   border-bottom-left-radius: 15px;
 }
@@ -568,18 +579,18 @@ menu#sticky-navigation li {
 }
 
 
-/* INTRO */
-menu#sticky-navigation .intro a {
+/* PD (Intro) */
+menu#sticky-navigation .pd a {
   font-weight: normal;
 }
 
-menu#sticky-navigation .intro li:hover,
+menu#sticky-navigation .pd li:hover,
 menu#sticky-navigation .into li.current {
   background-color: #333;
   border-top: 3px solid #8FBE36;
 }
 
-menu#sticky-navigation .intro li.active {
+menu#sticky-navigation .pd li.active {
   border-top: 3px solid #8FBE36 !important;
   background-color: #333;
 }

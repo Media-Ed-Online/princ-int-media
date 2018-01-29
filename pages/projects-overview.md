@@ -1,7 +1,7 @@
 ---
-layout: page
-title: / Final
-category: Final Choices
+layout: default
+title: Projects
+category: Projects
 active: Weeks 13-15
 ---
 

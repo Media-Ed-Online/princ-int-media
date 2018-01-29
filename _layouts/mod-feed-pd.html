@@ -1,0 +1,53 @@
+---
+layout: default
+title: mod-feed-pd
+---
+
+<div style="margin-top: 50px;">
+  {{ content }}
+</div>
+
+<div style="margin: 25px 0;">
+  <span style="color: #8FBE36; font-size: xx-large; font-weight: bold">/ / / </span>
+  <span style="color: #FC315A; font-size: xx-large; font-weight: bold">/ / / </span>
+  <span style="color: #33A3C1; font-size: xx-large; font-weight: bold">/ / / </span>
+  <span style="color: #F5A205; font-size: xx-large; font-weight: bold">/ / / </span>
+  <span style="color: #53DFD3; font-size: xx-large; font-weight: bold">/ / /</span>
+</div>
+
+{% for page in site.pages %}
+{% if page.category == 'PD' %}
+  {% unless page.next %}
+
+    {% unless forloop.first %}
+      </div>
+    </div>
+    {% endunless %}
+
+    <div class="archive-item fadeInDown animated">
+      <h2>{{ page.active }}</h2>
+      <div>
+
+    {% else %}
+
+      <div class="archive-item fadeInDown animated">
+        <h2>{{ page.active }}</h2>
+        <div>
+    {% endunless %}
+
+    <article>
+      <p><a href="{{ page.url | prepend: site.baseurl }}" style="color: #568203;" title="{{ page.title }}">"{{ page.title }}"</a><br />{{ page.summary }}</p>
+      <div class="page-category">
+        {{ page.category }}
+      </div>
+    </article>
+
+    {% if forloop.last %}
+      </div>
+    </div>
+    {% endif %}
+
+  {% endif %}
+{% endfor %}
+
+<div style="margin-bottom: 15%"></div>

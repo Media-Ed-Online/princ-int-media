@@ -1,12 +1,12 @@
 ---
 layout: page
-title: MART<sup>340</sup> Online
-category: Introduction
+title: MART<sup>340</sup> Online Introduction
+category: PD
 active: Week 01
-summary: 
+summary: Please complete before moving on.
 ---
 <menu id="sticky-navigation" class="sticky">
-  <ul class="intro">
+  <ul class="pd">
     <a href="#top" class="scroll"><i class="fas fa-map-marker-alt nav-marker"></i></a>
     <li><a href="#section1" class="scroll">/ Explore</a></li>
     <li><a href="#section2" class="scroll">/ Viewing</a></li>
@@ -15,15 +15,9 @@ summary:
 </menu>
 
 
-## Introduction:<br />Finding the Principle of the Matter
+## Let's Begin:<br />Finding the Principle of the Matter
 
-Welcome to _Principles of Interactive Media!_ Here, we cover a broad range of topics in interaction design, including best web practices, user experience methodologies, digital aesthetics, and game theory.
-
-We also step outside of the digital world to look at the broader production going on around us. We explore topics in architecture, automotive design, and illustration (among others), and the unique challenges creatives face in these fields. and how we can apply their strategies to our own media productions.
-
-### Course Summary
-
-<img src="./modules/ixd/img/intro-discussion.svg" title="Desigining Interaction" alt="two characters discussing shapes" style="max-width: 150px; margin: 10px 0 10px 10px; float: right;" />
+<img src="./img/pd-discussion.svg" title="Desigining Interaction" alt="two characters discussing shapes" style="max-width: 150px; margin: 10px 0 10px 10px; float: right;" />
 This course is designed to help students gain the skill sets necessary to successfully create work in the constantly evolving digital environment. It covers the fundamentals of interactive website elements, prototyping, and game development, with a focus on evaluating user testing and addressing user challenges in these media. Our journey covers a lot in very little time, studying the principles of interactive experiences and the group processes that make them successful.
 
 ### Assessment

@@ -4,15 +4,15 @@ title: / IXD
 category: Interaction Design
 active: Weeks 03-05
 ---
-<!--<div style="text-align: center">
+<div style="text-align: center">
   <img src="./modules/ixd/img/ixd-overview.svg" style="max-width: 200px;"/>
 </div>
 
 This course is all about **interaction**, or how respond, develop, and communicate with the world around us. We do this a number of ways in the arts; through our devices, through our collaborators, and through the iterative processes behind designing and producing our products.
 
-We'll continue by looking at these core principles, particularly in reference to web design and web practices.-->
+We'll continue by looking at these core principles, particularly in reference to web design and web practices.
 
-<div class="container not-found" style="margin-top: 50px;">
+<!--<div class="container not-found" style="margin-top: 50px;">
   <div class="bounceInDown animated">
     <div class="fa-5x" style="margin-bottom: 50px;">
     <span class="fa-layers fa-fw" style="color: #FC315A">
@@ -24,4 +24,4 @@ We'll continue by looking at these core principles, particularly in reference to
   <p>
     Sorry, we're not ready to move on yet.
   </p>
-</div>
+</div>-->

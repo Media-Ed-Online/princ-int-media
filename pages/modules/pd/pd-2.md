@@ -102,7 +102,9 @@ Please watch the film for this Topic’s Group Think. Consider the age we live i
   <h3><i class="fas fa-paint-brush material-marker"></i> Project: Usability and U </h3>
 </div>
 
-Now that you’ve thought about your interactions with physical items, let’s navigate to the meat of what we study: digital interfaces and experiences.
+<i>There is no project for this topic.</i>
+
+<!--Now that you’ve thought about your interactions with physical items, let’s navigate to the meat of what we study: digital interfaces and experiences.
 
 [Usability.gov](https://www.usability.gov/) is the leading resource for user experience (UX) best practices and guidelines, serving practitioners and students in the government and private sectors. It provides overviews of the user-centered design process and various UX disciplines, and also covers the related information on methodology and tools for making digital content more usable and useful.
 
@@ -111,4 +113,4 @@ Take a look around. Pay particular attention to these pages:
 - [Accessibility Basics](https://www.usability.gov/what-and-why/accessibility.html)
 - [Usability Evaluation Basics](https://www.usability.gov/what-and-why/usability-evaluation.html)
 
-When you're ready to begin, please view the aassignment requirements on Moodle!
+When you're ready to begin, please view the aassignment requirements on Moodle!-->

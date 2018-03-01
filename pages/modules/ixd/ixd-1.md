@@ -190,14 +190,20 @@ Unlike traditional architecture, website architecture is fluid and adaptive.
 
 RWD relies on flexible grid and layout systems to organize content, and creates dynamic changes depending on the screen size and orienation of the device. _RWD is considered an essential practice for designers._
 
-
-<br>
-<div style="border-top: 2px dashed #E9475E; border-bottom: 2px dashed #E9475E; padding: 10px;">
-<span style="color: #E9475E; font-weight: bold">Example:</span> The <a href="http://www.morehazards.com">More Hazards More Heroes</a> site combines animation, color, and information in multiple layouts across screen sizes, keeping the most distinctive elements in each and carefully collapsing others to provide engagement while keeping data consumption low for mobile.
+<div style="border-left: 2px dashed #E9475E; border-right: 2px dashed #E9475E; padding: 10px; margin: 60px">
+  <p><span style="color: #E9475E; font-weight: bold">Example:</span> The <a href="http://www.morehazards.com">More Hazards More Heroes</a> site combines animation, color, and information in multiple layouts across screen sizes, keeping the most distinctive elements in each and carefully collapsing others to provide engagement while keeping data consumption low for mobile.</p>
 </div>
+
+<a href="https://www.adobe.com/products/muse.html" target="_blank">Adobe Muse</a> allow users to create and publish professional websites that look great on desktop and mobile browsers, using a free-form canvas and layout tools - all without writing a single line of code.
+
+For our class, we're going to spend a few Topics exploring this software. Muse was particularly created to help designers venture into web content creation without having to be developers (coders). We will be using Muse as a way to explore interative web elements without having to do a code bootcamp.
+
+Please login to Moodle when you are ready to access lab materials and requirements.
+
 
 
 <hr>
+
 
 
 <span class="anchor" id="section4"></span>

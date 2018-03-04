@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Responsiveness
+title: Adaptability
 category: IXD
 active: Week 04
 summary: Concludes Monday, 3.12

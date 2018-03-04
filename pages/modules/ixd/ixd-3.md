@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Interaction
+title: Actions
 category: IXD
 active: Week 05
 summary: Concludes Monday, 3.19

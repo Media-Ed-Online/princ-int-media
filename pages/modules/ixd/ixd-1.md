@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Adaptability
+title: Achitecture
 category: IXD
 active: Week 03
 summary: Concludes Monday 3.05

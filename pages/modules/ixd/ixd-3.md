@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Dynamics
+title: Interaction
 category: IXD
 active: Week 05
-summary: Due Monday, 3.19
+summary: Concludes Monday, 3.19
 ---
 
 <div class="container not-found" style="margin-top: 50px;">

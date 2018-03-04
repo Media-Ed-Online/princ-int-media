@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Architecture
+title: Adaptability
 category: IXD
 active: Week 03
-summary: Due Monday 3.05
+summary: Concludes Monday 3.05
 ---
 
 <!--<div class="container not-found" style="margin-top: 50px;">

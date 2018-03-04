@@ -3,7 +3,7 @@ layout: page
 title: A World of Things
 category: PD
 active: Week 02
-summary: Due Monday 2.5
+summary: Concludes Monday 2.5
 ---
 <menu id="sticky-navigation" class="sticky">
   <ul class="pd">

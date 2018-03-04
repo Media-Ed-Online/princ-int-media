@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Dynamics
+title: Responsiveness
 category: IXD
 active: Week 04
-summary: Due Monday, 3.12
+summary: Concludes Monday, 3.12
 ---
 
 <div class="container not-found" style="margin-top: 50px;">

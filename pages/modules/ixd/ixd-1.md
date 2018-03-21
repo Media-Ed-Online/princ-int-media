@@ -47,7 +47,7 @@ To illustrate, can you think of a site whose structures (past and present) have 
 
 <span class="anchor" id="section1"></span>
 <div class="section">
-  <h3><i class="fas fa-book material-marker"></i> Explore: The Design of Space</h3>
+  <h3><i class="fas fa-book material-marker"></i> Explore: The Design of Structures</h3>
 </div>
 
 #### 2WTC
@@ -179,7 +179,7 @@ He is currently building a waste-to-energy plant in Copenhagen with a slanted ro
 
 <span class="anchor" id="section3"></span>
 <div class="section">
-  <h3><i class="fas fa-flask material-marker"></i> Lab: Muse and Responsive Web Design </h3>
+  <h3><i class="fas fa-flask material-marker"></i> Lab: Muse and Responsive Frameworks </h3>
 </div>
 
 <img src="./img/rwd-animation-cropped.gif" alt="website changing when viewed on different devices" title="RWD in action" style="max-width: 250px; margin: 0 0 15px 15px; float: right;">

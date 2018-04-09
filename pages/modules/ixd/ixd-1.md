@@ -2,8 +2,8 @@
 layout: page
 title: Achitecture
 category: IXD
-active: Week 03
-summary: Concludes Monday 3.05
+active: Topic 03
+summary: #Concludes Monday 3.05
 ---
 
 <!--<div class="container not-found" style="margin-top: 50px;">

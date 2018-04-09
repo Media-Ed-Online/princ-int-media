@@ -2,7 +2,7 @@
 layout: mod-feed-ixd
 title: / IXD
 category: Interaction Design
-active: Weeks 03-05
+active: Topics 03-04
 ---
 <div style="text-align: center">
   <img src="./modules/ixd/img/ixd-overview.svg" style="max-width: 200px;"/>

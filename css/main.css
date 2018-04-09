@@ -612,10 +612,58 @@ menu#sticky-navigation .ixd li.current {
   border-top: 3px solid #FC315A;
 }
 
-menu#sticky-navigation .ixd li.active {
-  border-top: 3px solid #FC315A !important;
+
+menu#sticky-navigation .uxd li.active {
+  border-top: 3px solid #33A3C1 !important;
   color: #EAEAEA !important;
 }
+
+menu#sticky-navigation .uxd a {
+  color: #33A3C1;
+  font-weight: normal;
+}
+
+menu#sticky-navigation .uxd a:hover {
+  color: #268ca8;
+}
+
+menu#sticky-navigation .uxd li:hover,
+menu#sticky-navigation .uxd li.current {
+  background-color: #333;
+  border-top: 3px solid #33A3C1;
+}
+
+menu#sticky-navigation .uxd li.active {
+  border-top: 3px solid #33A3C1 !important;
+  color: #EAEAEA !important;
+}
+
+
+menu#sticky-navigation .games li.active {
+  border-top: 3px solid #F5A205 !important;
+  color: #EAEAEA !important;
+}
+
+menu#sticky-navigation .games a {
+  color: #F5A205;
+  font-weight: normal;
+}
+
+menu#sticky-navigation .games a:hover {
+  color: #C66200;
+}
+
+menu#sticky-navigation .games li:hover,
+menu#sticky-navigation .games li.current {
+  background-color: #333;
+  border-top: 3px solid #F5A205;
+}
+
+menu#sticky-navigation .games li.active {
+  border-top: 3px solid #F5A205 !important;
+  color: #EAEAEA !important;
+}
+
 
 /* RESPONSIVE EMBEDS */
 .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }

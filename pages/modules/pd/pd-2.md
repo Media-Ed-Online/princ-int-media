@@ -2,8 +2,8 @@
 layout: page
 title: A World of Things
 category: PD
-active: Week 02
-summary: Concludes Monday 2.5
+active: Topic 02
+summary: #Concludes Monday 2.5
 ---
 <menu id="sticky-navigation" class="sticky">
   <ul class="pd">
@@ -65,7 +65,7 @@ Since it will come up in the viewing area, let’s consider Apple’s:
 
 <span class="anchor" id="section2"></span>
 <div class="section">
-  <h3><i class="fas fa-video material-marker"></i> Viewing: <em>Objectified</em>, Dir. Gary Hustwit (2009)</h3>
+  <h3><i class="fas fa-video material-marker"></i> Viewing: <cite>Objectified</cite>, Dir. Gary Hustwit (2009)</h3>
 </div>
 
 

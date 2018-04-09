@@ -2,8 +2,8 @@
 layout: page
 title: Adaptability
 category: IXD
-active: Week 04
-summary: Concludes Monday, 3.12
+active: Topic 04
+summary: #Concludes Monday, 3.12
 ---
 
 <!--<div class="container not-found" style="margin-top: 50px;">

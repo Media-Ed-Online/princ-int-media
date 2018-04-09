@@ -2,7 +2,7 @@
 layout: page
 title: MART340 Online Introduction
 category: PD
-active: Week 01
+active: Topic 01
 summary: Please complete before moving on.
 ---
 <menu id="sticky-navigation" class="sticky">
@@ -111,10 +111,10 @@ A **Project** will ask you to add to a past lab in your own way. For example:
 <p>Your pages should fit within the brand of the site (colors, patterns, typography), be easily accessible, and enhance the integrity of the product.</p>
 </blockquote>
 
-We will workshop these Projects as a class. Whereas labs will ask you to complete the tutorial as exactly as possible, Projects and their Workshops are more about _trials_.
+<!--We will workshop these Projects as a class. Whereas labs will ask you to complete the tutorial as exactly as possible, Projects and their Workshops are more about _trials_.
 
 Your submissions should be as complete as possible for the class timeline, but the goal of usability testing is to have outsiders evaluate the product while in development. You'll use your classmate's experiences with your alpha test to implement changes and fixes to your Workshop submission before sending it to your instructor for evaluation.
 
 You'll write about your reviews and any solutions you implemented based on these findings in a short write-up at the end of the module.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/48dMCEDJ1gM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/48dMCEDJ1gM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>-->

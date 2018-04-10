@@ -146,8 +146,17 @@ For those interested in software or game development, web and application design
   <h3><i class="fas fa-flask material-marker"></i> Lab: Xd and Designing</h3>
 </div>
 
-<i>Test.</i>
+[Adobe Xd](https://www.adobe.com/products/xd.html) in an all-in-one solution for UX/UI designers which allows for designing, prototyping, and sharing experiences for websites and mobile apps.
 
+Using Xd, we’re going to build a few app prototypes that will focus on **intuative features**, **graphics**, and **designing flow**. Please make sure you have installed or have access to Adobe Xd.
+
+Below is a quick overview of how to navigate and utilize the basic tools of Adobe Xd:
+
+<iframe src="https://player.vimeo.com/video/239878247?color=33A3C1&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<br />
+
+Please login to Moodle when you are ready to access lab materials and requirements.
 
 <hr>
 

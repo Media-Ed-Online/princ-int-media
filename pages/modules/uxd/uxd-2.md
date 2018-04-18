@@ -110,7 +110,19 @@ Christoph Niemann is one of the most prolific illustrators and designers in the 
   <h3><i class="fas fa-flask material-marker"></i> Lab: Xd and Designing</h3>
 </div>
 
-<i>Test.</i>
+**Prototyping** is the process of visualizing _design intent_, as opposed to streamlining and polishing product creation. Specifically in the digital world, prototypes are presented to stakeholders as an example of how clients/users will interact with the interface of the product.
+
+Prototypes are used to address the feasibility of the product, and test usability and function. They ensure that product works as it should, and that people are able to use the product as intentened. For example, if designing a website for a retailer, you may make a bare-bones prototype to test navigation, steps of interaction, responsiveness, and most importantly, ease of purchase. This needs to be done early, before web and graphic designers are brought in, because these are key features to e-commerce sites.
+
+In this regard, **low-fidelity prototyping** provides testable interfaces that focus on functionality rather than visual design. Only very basic elements (like shapes, blocks, and fillers) and key content are needed, but interactivity should simulated as close to the final product as possible. Lo-fi prototyping is cheap, quick, and collaborative, bringing much of the design team together in the early stages.
+
+Lo-fi prototyping serves many functions, particularly in streamlining the interface:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A_mynmhCLbQ?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<br />
+
+Please login to Moodle when you are ready to access lab materials and requirements.
 
 
 <hr>

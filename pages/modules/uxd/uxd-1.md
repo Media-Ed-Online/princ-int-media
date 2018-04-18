@@ -158,6 +158,7 @@ Below is a quick overview of how to navigate and utilize the basic tools of Adob
 
 Please login to Moodle when you are ready to access lab materials and requirements.
 
+
 <hr>
 
 

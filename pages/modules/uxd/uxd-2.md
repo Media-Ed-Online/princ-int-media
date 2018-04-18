@@ -107,7 +107,7 @@ Christoph Niemann is one of the most prolific illustrators and designers in the 
 
 <span class="anchor" id="section3"></span>
 <div class="section">
-  <h3><i class="fas fa-flask material-marker"></i> Lab: Xd and Designing</h3>
+  <h3><i class="fas fa-flask material-marker"></i> Lab: Xd and Prototyping</h3>
 </div>
 
 **Prototyping** is the process of visualizing _design intent_, as opposed to streamlining and polishing product creation. Specifically in the digital world, prototypes are presented to stakeholders as an example of how clients/users will interact with the interface of the product.

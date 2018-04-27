@@ -29,3 +29,57 @@ summary: #Concludes Monday, 3.19
     <li><a href="#section4" class="scroll">/ Project</a></li>
   </ul>
 </menu>
+
+
+In the last modules, we looked at objects and products, and transitioned into three-dimensional environments with traditional and interactive architecture. Next, we added the fourth-dimension (time), and how it added power to ephemeral atmospheres, like those found in live performance arts and venues. We'll conclude this dimensional odyssey by looking at the "fifth-dimension" of interaction - _behavior_ - and the common methodologies in kinetic and fluid interface designs.
+
+<img src="./img/uxd-dimensions.svg" title="Designing Apps" alt="designing app interface" style="max-width: 150px; margin: 0 0 15px 15px; float: right;" />
+
+We've already looked at production and stage design and how these fields communicate complex narratives through their practices. Now we'll bridge **Interaction Design (IxD)** with **User Experience Design (UxD)** proper, and how these concepts are applied in websites, applications, and their dynamic elements.
+
+
+<hr>
+
+
+<span class="anchor" id="section1"></span>
+<div class="section">
+  <h3><i class="fas fa-book material-marker"></i> Explore: The Age of the User</h3>
+</div>
+
+To conclude
+
+
+<hr>
+
+
+<span class="anchor" id="section2"></span>
+<div class="section">
+  <h3><i class="fas fa-video material-marker" style="margin-left: 5px;"></i> Viewing: The Age of Interaction - the iPhone and Beyond</h3>
+</div>
+
+The world
+
+
+<hr>
+
+
+<span class="anchor" id="section3"></span>
+<div class="section">
+  <h3><i class="fas fa-flask material-marker"></i> Lab: Xd and Designing</h3>
+</div>
+
+trdt
+<br />
+
+Please login to Moodle when you are ready to access lab materials and requirements.
+
+
+<hr>
+
+
+<span class="anchor" id="section4"></span>
+<div class="section">
+  <h3><i class="fas fa-paint-brush material-marker"></i> Project: None</h3>
+</div>
+
+<i>There is no project for this topic.</i>

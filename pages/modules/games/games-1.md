@@ -180,17 +180,54 @@ Run-and-gun games are often defined as a mix between platformers and shoot 'em u
 
 <span class="anchor" id="section2"></span>
 <div class="section">
-  <h3><i class="fas fa-video material-marker" style="margin-left: 5px;"></i> Viewing: Further Learning - More on Creating Characters</h3>
+<h3><i class="fas fa-video material-marker" style="margin-left: 5px;"></i> Viewing: <i>The Lanugage of Games</i>, Part 1: “Nouns”</h3>
 </div>
 
-<p style="color: #E9475E">
-  <i><b>NOTE:</b></i> This area is now reserved for those interested in learning more about game design. You do not have to go through these materials, although I highly encourage it!
-</p>
+<i>Welcome to the games module!</i>
 
-Game design is a huge field. Professional development can take years, and there are entire schools and majors dedicated to _specific_ areas of game development, much less "the whole process."
+Choose a game from the options listed up above. Using this selection, we're going to discuss "the language of games," while you have the opportunity to apply those concepts (albeit on a much smaller scale) in your own game for Lab 5.
+
+What do I mean by "the language of games?" Well, most media has it's own language. You're most likely familiar with cinema, and how camera angles, character blocking, and even score can be used to present non-verbal concepts like power, fear, or excitement. Games are no different.
+
+For the purpose of our class, we're going to consider four core parts:
+
+- The "nouns" - characters, rules, controls that present the game concepts.
+- The "adjectives" - the art and styling that create the tone.
+- The "verbs" - mechanics and actions required to play.
+- The "adverbs" - how much of the mechanic, and when they're used (gamefeel).
+
+Some of these are stretches, but for the most part, that model will work for this introductory look at games. Let's being with the "nouns:"
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cji2XXJaX9o?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+<hr>
+
+
+<span class="anchor" id="section3"></span>
+<div class="section">
+  <h3><i class="fas fa-flask material-marker"></i> Lab: “The Rantler,” Part 1: Sprites and Characters</h3>
+</div>
+
+If you haven't already, download the **free** version of the [Unity](https://store.unity.com/download?ref=personal) engine.
+
+
+<img src="./img/game-sprite.gif" style="width: 150px; float: right;" />
+
+Together with Unity, we're going to build a 2D Platformer starring the “Rantler,” a lone character in a fantastical world of **phsyics**, **collectable objects**, and **hazards!**
+
+**NOTE:** Lab 5 spans four weeks. You will only turn in one assignment for this entire lab, at the very end (as your completed game).
+
+
+Please login to Moodle when you are ready to access lab materials and requirements.
+
+
+
+<div style="border-bottom: 2px dashed #33A3C1; margin: 60px 0px;"></div>
+
+### Interested in Learning More?
 
 We may be small, but we're glad to offer you additional (and excellent) places to go if you're interested in learning more.
-
 
 #### Introduction to Characters in Unity
 More from Missoula's own Seazen Studio!
@@ -208,20 +245,6 @@ Note that you can download the scripts so you won't have to write any code yours
 You can make your own sprite sheets, or find one online. There are countless ones available, including classic game characters like Zelda and Sonic!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ozgN_YEYnKc?list=PLGpqh3JS7l9LJMq8BAR0f-0qVYXggEc5z" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-
-<hr>
-
-
-<span class="anchor" id="section3"></span>
-<div class="section">
-  <h3><i class="fas fa-flask material-marker"></i> Lab: “The Rantler,” Sprites and Characters</h3>
-</div>
-
-test
-<br />
-
-Please login to Moodle when you are ready to access lab materials and requirements.
 
 
 <hr>

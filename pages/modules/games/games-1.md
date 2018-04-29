@@ -43,7 +43,7 @@ Games have come a long way in a very short time, and are still learning how to u
 
 <span class="anchor" id="section1"></span>
 <div class="section">
-  <h3><i class="fas fa-book material-marker"></i> Explore: What is a Game?</h3>
+  <h3><i class="fas fa-book material-marker"></i> Explore: Games, Genres, and the Unity Engine</h3>
 </div>
 
 Since we'll be discussing the "language of games," it's only fair we become aquainted with some of its terminology.

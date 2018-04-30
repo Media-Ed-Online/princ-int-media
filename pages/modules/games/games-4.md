@@ -91,7 +91,7 @@ Other VR Head Mounted Displays (HMDs) will also work with Unity, such as the HTC
 Let's continue the discussion with a game's "adverbs!"
 
 #### Adverbs
-<p class="sub-heading">The "How Much?" of a Mechanic, and Contributing to "Gamefeel"</p>
+<p class="sub-heading">The "How Much?" of Everything, and Contributing to "Gamefeel"</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/216_5nu4aVQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

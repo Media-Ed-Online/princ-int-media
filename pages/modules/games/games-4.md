@@ -95,8 +95,6 @@ Let's continue the discussion with a game's "adverbs!"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/216_5nu4aVQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-#### Spotlight: <cite>“Broforce”</cite>
-
 
 <hr>
 

@@ -112,9 +112,6 @@ Let's continue the discussion with a game's "adjectives!"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b2c0Y3GpjwA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-#### Spotlight: <cite>“Guacamelee!”</cite>
-
-
 
 <hr>
 

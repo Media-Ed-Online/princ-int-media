@@ -203,9 +203,6 @@ Let's being with the "nouns," and how they come together in a game:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cji2XXJaX9o?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-#### Spotlight: <cite>“Ori and the Blind Forest”</cite>
-
-
 
 <hr>
 

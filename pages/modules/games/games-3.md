@@ -92,8 +92,6 @@ Let's continue the discussion with a game's "verbs!"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G9Lbww5rGJk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-#### Spotlight: <cite>“Cuphead”</cite>
-
 
 <hr>
 

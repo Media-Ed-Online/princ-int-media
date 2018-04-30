@@ -33,7 +33,7 @@ summary: #Concludes Monday, 3.19
 
 As you get through our next and final lab, it'll become clearer how games are _interactive experiences_ and the newest media that utilizes creative communication to tell stories between creater, user, and device.
 
-<img src="./img/games-nouns.svg" title="Characters" alt="cube representing a game character" style="max-height: 150px; margin: 0 0 15px 15px; float: right;" />
+<img src="./img/games-nouns.svg" title="Characters" alt="cube representing a game character" style="max-width: 75px; margin: 0 0 15px 15px; float: right;" />
 
 Games have come a long way in a very short time, and are still learning how to use IxD and UxD practices to create working environments that immerse players in artifical worlds. Over the last handful of "Group Think" forums we'll explore some of the elements of game design that accomplish this, utilizing a game you select from the options below.
 
@@ -196,9 +196,15 @@ For the purpose of our class, we're going to consider four core parts:
 - The "verbs" - mechanics and actions required to play.
 - The "adverbs" - how much of the mechanic, and when they're used (gamefeel).
 
-Some of these are stretches, but for the most part, that model will work for this introductory look at games. Let's being with the "nouns:"
+#### Nouns
+<p class="sub-heading">Characters, Rules, Controls, Objectives:</p>
+
+Let's being with the "nouns," and how they come together in a game:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cji2XXJaX9o?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+#### Spotlight: <cite>“Ori and the Blind Forest”</cite>
+
 
 
 <hr>
@@ -211,19 +217,19 @@ Some of these are stretches, but for the most part, that model will work for thi
 
 If you haven't already, download the **free** version of the [Unity](https://store.unity.com/download?ref=personal) engine.
 
+Together with Unity, we're going to build a 2D Platformer starring the “Rantler,” a lone character in a fantastical world of **phsyics**, **collectable objects**, and **hazards!**
+
+**NOTE:** Lab 5 spans four parts. You will only turn in one assignment for this entire lab, at the very end (as your completed game).
 
 <img src="./img/game-sprite.gif" style="width: 150px; float: right;" />
 
-Together with Unity, we're going to build a 2D Platformer starring the “Rantler,” a lone character in a fantastical world of **phsyics**, **collectable objects**, and **hazards!**
-
-**NOTE:** Lab 5 spans four weeks. You will only turn in one assignment for this entire lab, at the very end (as your completed game).
-
+<b>Part 1</b> focuses on importing and animating character sprites, and how that character is controlled within an enviroment.
 
 Please login to Moodle when you are ready to access lab materials and requirements.
 
 
 
-<div style="border-bottom: 2px dashed #33A3C1; margin: 60px 0px;"></div>
+<div style="border-bottom: 2px dashed #F5A205; margin: 60px 0px;"></div>
 
 ### Interested in Learning More?
 

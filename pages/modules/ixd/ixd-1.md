@@ -33,6 +33,7 @@ summary: #Concludes Monday 3.05
 It may seem strange to discuss architecture in a Digital Media course, but this practice is incredibly influential on our everyday perspectives, artistic or not.
 
 <img src="./img/ixd-architecture.svg" title="Architecture" alt="tools for drafting" style="max-width: 150px; margin: 0 0 15px 15px; float: right;" />
+
 We will begin this Topic looking at architecture in the traditional sense, move into integration of technology and physical construction, and conclude with the purely digital infrastructure of websites.
 
 To begin, let's briefly continue our exploration of "design spacial awareness," transitioning from objects to environments. Have you considered how the space around you influences your personal atmosphere? Provides inspiration? Responds to your physiological, psychological, or cultural needs?

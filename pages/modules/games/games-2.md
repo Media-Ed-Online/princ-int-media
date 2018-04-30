@@ -33,7 +33,7 @@ summary: #Concludes Monday, 3.19
 
 So, you've begun playing a professinal game, and creating your own. You're thinking in the "langauge of games," and considering the "nouns" of the game (characters, goals, rules). What's next?
 
-<img src="./img/uxd-dimensions.svg" title="Designing Apps" alt="designing app interface" style="max-width: 150px; margin: 0 0 15px 15px; float: right;" />
+<img src="./img/games-adjectives.svg" title="Visuals" alt="adding textures to characters" style="max-width: 150px; margin: 0 0 15px 15px; float: right;" />
 
 This Topic, we'll be capturing the action by attaching a game camera physics forces for our character to interact with, and discussing the mechanics of games.
 
@@ -45,7 +45,7 @@ If that's all Greek to you, don't worry - these are abstract concepts that requi
 
 <span class="anchor" id="section1"></span>
 <div class="section">
-  <h3><i class="fas fa-book material-marker"></i> Explore: Game Camera and Following Action</h3>
+  <h3><i class="fas fa-book material-marker"></i> Explore: Visuals and Game Camera</h3>
 </div>
 
 Most platformers, particularly early ones, use a scrolling game camera.
@@ -102,10 +102,18 @@ Side scrollers can have many different tracking tricks. "Keep attention on your 
 
 <span class="anchor" id="section2"></span>
 <div class="section">
-  <h3><i class="fas fa-video material-marker" style="margin-left: 5px;"></i> Viewing: The Age of Interaction - the iPhone and Beyond</h3>
+<h3><i class="fas fa-video material-marker" style="margin-left: 5px;"></i> Viewing: <i>The Lanugage of Games</i>, Part 2: “Adjectives”</h3>
 </div>
 
-The world
+Let's continue the discussion with a game's "adjectives!"
+
+#### Adjectives
+<p class="sub-heading">How Art and Style Create Tone:</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b2c0Y3GpjwA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+#### Spotlight: <cite>“Guacamelee!”</cite>
+
 
 
 <hr>
@@ -113,13 +121,48 @@ The world
 
 <span class="anchor" id="section3"></span>
 <div class="section">
-  <h3><i class="fas fa-flask material-marker"></i> Lab: Xd and Designing</h3>
+  <h3><i class="fas fa-flask material-marker"></i> Lab: “The Rantler,” Part 2: Camera and Destroyers</h3>
 </div>
 
-trdt
-<br />
+<img src="./img/game-sprite.gif" style="width: 150px; float: right;" />
+
+<b>Part 2</b> focuses on creating a camera and attaching it to your character - just in time to kill him off.
 
 Please login to Moodle when you are ready to access lab materials and requirements.
+
+
+
+<div style="border-bottom: 2px dashed #F5A205; margin: 60px 0px;"></div>
+
+### Interested in Learning More?
+
+We may be small, but we're glad to offer you additional (and excellent) places to go if you're interested in learning more.
+
+#### A Closer Look at Using Destoryers and Cameras that Follow
+More from Missoula's own Seazen Studio!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BAgBAH1ze-I?list=PLGpqh3JS7l9LJMq8BAR0f-0qVYXggEc5z&time_continue=2&v=BAgBAH1ze-I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+#### Infinite Runner with Camera and Destroyers
+The video below will explore developing a basic infinite runner game and details the code needed for creating destroyers and camera movement.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7dP7R-GbFkM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+#### 2D Flying Game
+Below is the first of 11 videos that goes with this tutorial series. The full text tutorial with scripts can be found on [Pixelnest](http://pixelnest.io/tutorials/2d-game-unity/).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kByEbJItcwg?list=PLGpqh3JS7l9LJMq8BAR0f-0qVYXggEc5z" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+#### Casanis Tutorial Series
+Here's another great tutorial series for 2D Game Creation!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gC0N6ETulv0?list=PL2cNFQAw_ndyKRiobQ2WqVBBBSbAYBobf" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+#### Brackeys
+Brackeys offers some great resources, scripts, and tutorial videos for Unity 2D Development. Check out the [2D Meg Pack](http://devassets.com/assets/2d-mega-pack/) associated with this tutorial.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/?list=PLPV2KyIb3jR42oVBU6K2DIL6Y22Ry9J1c&v=UbPiCgCkHTE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 <hr>

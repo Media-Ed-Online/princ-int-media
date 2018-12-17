@@ -5,7 +5,7 @@ description: >
   Course content for a look into creative technologies for interaction design.
 
 baseurl: "/princ-int-media" # the subpath of your site, e.g. /blog/
-url: https://midmodme.com/ # the base hostname & protocol for your site
+url: midmodme.com/ # the base hostname & protocol for your site
 git_address: https://github.com/Media-Ed-Online/princ-int-media
 git_edit_address: https://github.com/Media-Ed-Online/princ-int-media/blob/gh-pages
 
